@@ -1,24 +1,9 @@
 {
-  "html": "<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CloudStar Pages</title>
-    <!-- The style.css file allows you to change the look of your web pages.
-         If you include the next line in all your web pages, they will all share the same look.
-         This makes it easier to make new pages for your site. -->
-    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
-  </head>
-  <body>
-    <h1>This page is still being built but you can still access projects</h1>
-
-    <p>Projects:</p>
-
-    <p>Access School Jailbreak <a href="https://cloud-star.neocities.org/S-JB">(here)</a></p>
-
-    <h4>Need to access this page on a restricted device?</h4>
-  </body>
-</html>
-"
+  "html": [
+    "<p>Projects:</p>",
+    "",
+    "<p>Access School Jailbreak <a href=\"https://cloud-star.neocities.org/S-JB\">(here)</a></p>",
+    "",
+    "<h4>Need to access this page on a restricted device?</h4>"
+  ]
 }
